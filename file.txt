@@ -2,3 +2,4 @@ Nombre: Alberto
 Edad: 63
 Ciudad: Quito
 Login: true
+Windows: true
